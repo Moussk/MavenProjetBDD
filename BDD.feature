@@ -11,7 +11,6 @@ Then results for "aws" are shown
 
     Examples:
       | phrase |
-
       | aws |
       | docker |
       | ansible |
